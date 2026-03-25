@@ -1,0 +1,7 @@
+{
+  "prompt": "A photograph of 10 young girls standing in a row, all wearing school uniforms, shot from the front at eye level. 7 of the girls are slowly fading, dissolving, becoming translucent ghosts — disappearing mid-childhood. Only 3 remain solid and present. The background is a dusty, sun-baked African schoolyard. The mood is devastating and quiet. No text. No labels. Photorealistic, golden hour light, Kodak film grain.",
+  "model": "Ideogram 2",
+  "dataset_name": "UNICEF Child Marriage Data",
+  "dataset_url": "https://data.unicef.org/topic/child-protection/child-marriage/",
+  "insight": "In Niger, 76% of girls are married before age 18, the highest rate in the world, meaning childhood itself disappears for most girls born there."
+}
